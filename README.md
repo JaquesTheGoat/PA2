@@ -2,9 +2,33 @@
 
 This repository contains Python scripts created to address various problems in ECE2112. A summary of each script is provided below.
 
+# Table of Contents
+- [Introduction](#introduction)
+- [Normalization Problem](#normalization-problem)
+- [Divisible by 3 Problem](#divisible-by-3-problem)
+
+---
+
+## Introduction
+This repository contains Python scripts developed for EXPERIMENT 2 - Numerical Python, focused on solving different problems using the NumPy Library. The main objective of the experiment is to enable students to:
+
+
+###### 1. Differentiate and understand the various codes and functions of the NumPy Library.
+###### 2. Apply these functions to develop Python programs capable of manipulating arrays, normalizing and operating mathematically.
+
+
+
+By actively working through these examples in this repository, students will learn some of the key functionality in NumPy and leave them in a great position to learn more about how to use NumPy in numerical computing.
+
+
+---
+
+
 ### 1. Normalization Problem
 
 ###### A randomly generated 5x5 array is required to be normalized for this task. To normalize the random array, first produce it, then center it by subtracting the mean, then scale it by dividing it by the standard deviation. Save the normalized array to a file named `X_normalized.npy}.
+
+
 
 **Function:**
 
