@@ -58,7 +58,8 @@ print("\nNormalized Array:\n", X_normalized)
 
 
 
-![Screen Shot 2024-09-08 at 7 49 20 PM](https://github.com/user-attachments/assets/18581160-ff82-43e7-ae2a-f7409f556d63)
+<img width="582" height="261" alt="image" src="https://github.com/user-attachments/assets/d9b0cf30-4b2c-4f01-9d8f-4f8daa10f217" />
+
 
 
 
@@ -93,5 +94,6 @@ data
 
 **Output:**
 
-![Screen Shot 2024-09-08 at 7 52 29 PM](https://github.com/user-attachments/assets/c7ce811a-ca3b-44a9-a006-2a0be70771e9)
+<img width="631" height="119" alt="image" src="https://github.com/user-attachments/assets/27dfc3e0-060a-4b34-a16f-6d2de891fcb0" />
+
 
